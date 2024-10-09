@@ -1,21 +1,23 @@
-# Disruption of seasonal influenza circulation and evolution during two pandemic events in Southeastern Asia: contrasting the role of human movement and pathogen competition
+# Disruption of seasonal influenza circulation and evolution during the 2009 H1N1 and COVID-19 pandemics in Southeastern Asia
 
-Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2</sup>, Jun Cai<sup>1</sup>, Cécile Viboud<sup>3</sup>, Louis du Plessis<sup>4,5,‡</sup>, Philippe Lemey<sup>6,‡,†</sup>, Moritz U. G. Kraemer<sup>2,7,‡,†</sup>, Hongjie Yu<sup>1,‡,†</sup>
+Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2</sup>, Jun Cai<sup>1</sup>, Shuo Su<sup>1,3</sup>, Cécile Viboud<sup>4</sup>, Louis du Plessis<sup>5,6,‡</sup>, Philippe Lemey<sup>7,‡,†</sup>, Moritz U. G. Kraemer<sup>2,8,‡,†</sup>, Hongjie Yu<sup>1,3,9‡,†</sup>
 
 1.	School of Public Health, Key Laboratory of Public Health Safety, Ministry of Education, Fudan University, Shanghai, China
 2.	Department of Biology, University of Oxford, Oxford, UK
-3.	Fogarty International Center, National Institutes of Health, Bethesda, MD, USA
-4.	Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland
-5.	Swiss Institute of Bioinformatics, Lausanne, Switzerland
-6.  Pandemic Sciences Institute, University of Oxford, Oxford, UK
-7.	Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium
+3.	Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, Shanghai, China
+4.	Fogarty International Center, National Institutes of Health, Bethesda, MD, USA
+5.	Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland
+6.	Swiss Institute of Bioinformatics, Lausanne, Switzerland
+7.  Pandemic Sciences Institute, University of Oxford, Oxford, UK
+8.	Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium
+9.	Department of Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, China
 
 
 <sup>‡</sup> These authors jointly supervised this work  
 <sup>†</sup> Correspondence: philippe.lemey@kuleuven.be; moritz.kraemer@biology.ox.ac.uk; yhj@fudan.edu.cn
 
 ## Before starting
-1. This repository contains code and data used in the paper entitled "Disruption of seasonal influenza circulation and evolution during two pandemic events in Southeastern Asia: contrasting the role of human movement and pathogen competition"  
+1. This repository contains code and data used in the paper entitled "Disruption of seasonal influenza circulation and evolution during the 2009 H1N1 and COVID-19 pandemics in Southeastern Asia"  
 2. All code and data contained within this repository is released under the CC BY-NC-SA License. 
 3. Genetic data has not been provided due to the policy restriction, and can be accessed in NCBI (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) and GISAID (https://www.gisaid.org/). 
 
@@ -32,6 +34,6 @@ Noncommercial means not primarily intended for or directed towards commercial ad
 
 SA: Adaptations must be shared under the same terms.
 
-Disruption of seasonal influenza circulation and evolution during two pandemic events in Southeastern Asia: contrasting the role of human movement and pathogen competition © 2024 by Zhiyuan Chen is licensed under CC BY-NC-SA 4.0 
+Disruption of seasonal influenza circulation and evolution during the 2009 H1N1 and COVID-19 pandemics in Southeastern Asia © 2024 by Zhiyuan Chen is licensed under CC BY-NC-SA 4.0 
 
 Copyright (c) 2024 Zhiyuan Chen, Fudan University
