@@ -175,7 +175,6 @@ ggplot(bv_dis)+
   geom_bar(aes(x = season, y = n, fill = type), stat = "identity", width = 0.6)+
   geom_line(bv_dis[bv_dis$type == "Non-persistent lineages",], mapping = aes(x = season, y = (1-n/n_total)*300, group = 1), color = "grey50")+
   geom_point(bv_dis[bv_dis$type == "Non-persistent lineages",], mapping = aes(x = season, y = (1-n/n_total)*300), color = "grey50")+
-  
   # scale_x_date(date_breaks = "1 year", date_labels = "%b %Y", expand = c(0.01,0))+
   scale_x_discrete(expand = c(0.03,0))+
   theme_bw()+
