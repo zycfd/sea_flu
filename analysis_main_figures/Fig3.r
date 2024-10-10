@@ -16,6 +16,7 @@ library(data.table)
 library(lubridate)
 library(treeio)
 library(ggsci)
+library(patchwork)
 
 #==define color==
 color <- pal_lancet(palette = c("lanonc"), alpha = 0.9)(9)
