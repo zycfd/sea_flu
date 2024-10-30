@@ -1,14 +1,14 @@
 # Disruption of seasonal influenza circulation and evolution during the 2009 H1N1 and COVID-19 pandemics in Southeastern Asia
 
-Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2</sup>, Jun Cai<sup>1</sup>, Shuo Su<sup>1,3</sup>, Cécile Viboud<sup>4</sup>, Louis du Plessis<sup>5,6,‡</sup>, Philippe Lemey<sup>7,‡,†</sup>, Moritz U. G. Kraemer<sup>2,8,‡,†</sup>, Hongjie Yu<sup>1,3,9‡,†</sup>
+Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2,3</sup>, Jun Cai<sup>1</sup>, Shuo Su<sup>1,4</sup>, Cécile Viboud<sup>5</sup>, Louis du Plessis<sup>6,7,‡</sup>, Philippe Lemey<sup>8,‡,†</sup>, Moritz U. G. Kraemer<sup>2,3,‡,†</sup>, Hongjie Yu<sup>1,4,9‡,†</sup>
 
 1.	School of Public Health, Key Laboratory of Public Health Safety, Ministry of Education, Fudan University, Shanghai, China
 2.	Department of Biology, University of Oxford, Oxford, UK
-3.	Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, Shanghai, China
-4.	Fogarty International Center, National Institutes of Health, Bethesda, MD, USA
-5.	Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland
-6.	Swiss Institute of Bioinformatics, Lausanne, Switzerland
-7.  Pandemic Sciences Institute, University of Oxford, Oxford, UK
+3.	Pandemic Sciences Institute, University of Oxford, Oxford, UK
+4.	Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, Shanghai, China
+5.	Fogarty International Center, National Institutes of Health, Bethesda, MD, USA
+6.	Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland
+7.	Swiss Institute of Bioinformatics, Lausanne, Switzerland
 8.	Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium
 9.	Department of Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, China
 
